@@ -7,7 +7,7 @@ export const metadata = {
   title: {
     template: '%s - Burhanuddin Hamid',
     default:
-      'Burhanuddin Hamid - Software designer, founder, and amateur astronaut',
+      'Burhanuddin Hamid - I research cybersecurity, privacy, and modern software systems.',
   },
   description:
     'I’m Burhanuddin Hamid. I research cybersecurity, privacy, and modern software systems.',
